@@ -7,7 +7,7 @@
 * Morning (9:00 - 12:30):
     + [Warsztaty wprowadzające do R (in Polish)](details/Warsztaty wprowadzajace do R.md) - Adam Dąbrowski (UAM WNGiG) - Collegium Maximum, room 157
     + [Predictive modeling with R](details/Predictive modeling with R.md) - Artur Suchwałko (Data Scientist & Owner at QuantUp (Poland) ||| Co-owner / CSO / Vice-CEO at MedicWave (Sweden)) - Collegium Rungego, main hall
-    + [Data Visualization using R](details/Data Visualization using R.md) - Matthias Templ (Vienna University of Technology & Statistics Austria & data-analysis OG) Statistical Office
+    + [Data Visualization using R](details/Data Visualization using R.md) - Matthias Templ (Vienna University of Technology & Statistics Austria & data-analysis OG) -  Statistical Office
     + [Time series forecasting with R](details/Time series forecasting with R.md) - Adam Zagdański (Faculty of Pure And Applied Mathematics, Wroclaw University of Technology; QuantUp) - Collegium Maximum, room 253
     + [R for expression profiling by Next Generation Sequencing](details/R for expression profiling by Next Generation Sequencing.md) - Paweł Łabaj (Austrian Academy of Science / Boku University Vienna) - Collegium Maximum, room 254
 
